@@ -1,0 +1,79 @@
+html {
+   font:16px;
+    background:rgba(60,192,215,1);
+}
+
+body {
+    background:rgba (60,192,215,1);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header  {
+      background-color:rgb(122,160,197);
+    }
+    
+
+section{
+   display: flex;
+   flex-direction: column;
+    background-color: gainsboro;
+}
+
+section div{
+    background:grey;
+    width:10px ;
+    margin:10px;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+        
+}
+
+li{
+    
+    display: inline;
+    margin:20px;
+}
+h1  { 
+    
+    margin:0 auto;
+    font-weight:300;
+    font:300;
+    text-align:center;
+}
+
+img.large align-right{
+    padding-left:10px;
+     border:10px;
+    margin-right:10px;
+}
+
+P{
+    font-family:'Quanterro',Georgia,serif;
+    line-height: normal;
+    
+    }
+
+    
+
+
+P{
+    font-family: 'Quanterro',Georgia,serif;
+    line-height: normal;
+}
+
+
+h2{
+    padding: inherit;
+    font-size:200;
+    font-weight: 200;
+}
+
+img.float{ 
+ 
+    
+}
